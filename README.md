@@ -12,6 +12,10 @@
 
 <img src="https://img.shields.io/github/stars/JHONY-X?style=for-the-badge"/>
 
+<p align="center">
+  <img src="./assets/Screenshot%20From%202026-07-24%2023-57-23.png" width="900" alt="GTST v2 Certificate">
+</p>
+
 </div>
 
 ---
