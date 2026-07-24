@@ -1,185 +1,221 @@
-  #                                               Hi, I'm Ermias Dereje
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Flutter+Developer;Linux+Explorer;Building+Secure+Digital+Solutions" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JHONY-X&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/JHONY-X?label=Followers&style=social" />
-</p>
-
----
-
-## About Me
-
-```yaml
-name: JHONY-X
-role:
-  - Full-Stack Developer
-  - Cybersecurity Learner
-  - Flutter Developer
-
-focus:
-  - Web Applications
-  - Secure Software Development
-  - Penetration Testing
-  - Automation
-
-currently_learning:
-  - Advanced JavaScript
-  - Backend Architecture
-  - Cloud Computing
-  - Web Security
-
-goal:
-  "Build powerful, secure, and scalable technology solutions"
-```
-
----
-
-## My Tech Universe
-
 <div align="center">
 
-### Languages
+# 👋 Hello, I'm **Ermias Dereje**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,dart,cpp,html,css" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Ethical+Hacker;Flutter+Developer;Linux+Power+User;Founder+of+JOHNY-X;Always+Learning+Something+New" />
 
-### Frameworks & Development
+### 🚀 Building Secure Software • Solving Real Problems • Open Source
 
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,flutter,express" />
+<img src="https://komarev.com/ghpvc/?username=JHONY-X&label=Visitors&color=00ff88&style=for-the-badge"/>
 
-### Database & Tools
+<img src="https://img.shields.io/github/followers/JHONY-X?style=for-the-badge&logo=github"/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,docker,linux" />
-
-### Security
-
-<img src="https://skillicons.dev/icons?i=kali,bash" />
+<img src="https://img.shields.io/github/stars/JHONY-X?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# Featured Projects
+# 🧑‍💻 About Me
 
-<details>
-<summary> Cybersecurity Projects</summary>
+```yaml
+Name: Ermias Dereje
 
-* OWASP vulnerability testing labs
-* Web penetration testing practice
-* Security automation scripts
-* Network analysis tools
+Username: JHONY-X
 
-</details>
+Education:
+  - Addis Ababa University Institute of Technology
 
-<details>
-<summary> Full-Stack Applications</summary>
+Role:
+  - Full Stack Developer
+  - Ethical Hacker
+  - Flutter Developer
 
-* Modern responsive websites
-* REST API development
-* Database-driven applications
-* Secure authentication systems
+Currently Learning:
+  - Web Security
+  - Backend Engineering
+  - Cloud Computing
+  - AI Automation
 
-</details>
-
-<details>
-<summary>📱 Flutter Applications</summary>
-
-* Cross-platform mobile apps
-* Productivity tools
-* Learning trackers
-* Business applications
-
-</details>
-
-<details>
-<summary> AI & Automation</summary>
-
-* Workflow automation
-* Intelligent systems
-* Developer productivity tools
-
-</details>
-
----
-
-# Current Mission
-
-```
-Learning → Building → Testing → Improving
-
-Frontend
-   ↓
-Backend
-   ↓
-Database
-   ↓
-Cloud
-   ↓
-Cybersecurity
+Mission:
+  Build secure software that impacts millions.
 ```
 
 ---
 
-# GitHub Analytics
+# 🏆 Certifications
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JHONY-X&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JHONY-X&theme=tokyonight&hide_border=true" />
+<img src="YOUR_CERTIFICATE_IMAGE_LINK_HERE" width="900"/>
+
 </p>
 
+### ✅ GTST v2 Certified Security Tester
+
+Successfully completed **Geez Security's Cyber Security Training**, including practical penetration testing, Linux, OSINT, malware analysis, web security, and final examination.
+
+---
+
+# ⚙️ Tech Stack
+
+## Languages
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHONY-X&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,dart,html,css"/>
+
 </p>
 
 ---
 
-# Contribution Activity
+## Frameworks
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/JHONY-X/JHONY-X/output/github-contribution-grid-snake.svg" />
+
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express"/>
+
 </p>
 
 ---
 
-# 2026 Goals
+## Database
 
-* [x] Learn programming fundamentals
-* [x] Build web projects
-* [ ] Become advanced full-stack developer
-* [ ] Master web penetration testing
-* [ ] Build cybersecurity tools
-* [ ] Create open-source projects
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
+</p>
 
 ---
 
-# ⚡ Developer Mode
+## DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash"/>
+
+</p>
+
+---
+
+## Cybersecurity
+
+- Kali Linux
+- Parrot Security
+- OWASP Top 10
+- Burp Suite
+- Nmap
+- Metasploit
+- Wireshark
+- OSINT
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JHONY-X&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JHONY-X&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHONY-X&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JHONY-X&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/JHONY-X/JHONY-X/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🚀 Current Projects
+
+- 🔐 Cybersecurity Toolkit
+- 🌐 Full Stack Web Applications
+- 📱 Flutter Mobile Apps
+- 🤖 AI Automation
+- 📊 Smart Traffic Management System
+- 💼 JOHNY-X Digital Agency
+
+---
+
+# 🎯 2026 Roadmap
+
+- ✅ Advanced JavaScript
+- ✅ Python Automation
+- 🔄 React + Node.js
+- 🔄 Flutter
+- 🔄 Ethical Hacking
+- 🔄 DevOps
+- 🔄 Cloud Computing
+- 🔄 AI Engineering
+
+---
+
+# 💻 Developer Mode
 
 ```javascript
-const Johny = {
-    passion: "Technology",
-    skills: [
-        "Web Development",
-        "Cybersecurity",
-        "Flutter",
-        "Linux"
-    ],
-    mindset: "Keep Learning",
-    mission: "Build the Future"
-};
+class Developer {
 
-console.log(Johny);
+    constructor(){
+
+        this.name = "Ermias Dereje";
+
+        this.username = "JHONY-X";
+
+        this.stack = [
+            "Flutter",
+            "React",
+            "Node.js",
+            "Python",
+            "Cybersecurity"
+        ];
+
+        this.mission = "Build. Secure. Scale.";
+
+    }
+
+}
+
+export default new Developer();
 ```
 
 ---
 
-# Connect
+# 🌍 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/JHONY-X">
-<img src="https://img.shields.io/badge/GitHub-JHONY--X-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ermias-dereje-258266356/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ermiasdereje24@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -188,9 +224,10 @@ console.log(Johny);
 
 <div align="center">
 
-### "Learn. Build. Secure. Innovate."
+# ⭐ Thanks for visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+### *"Code. Secure. Innovate."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer"/>
 
 </div>
-
