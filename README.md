@@ -107,12 +107,11 @@ Successfully completed **Geez Security's Cyber Security Training**, including pr
 
 - Kali Linux
 - Parrot Security
-- OWASP Top 10
 - Burp Suite
 - Nmap
 - Metasploit
 - Wireshark
-- OSINT
+
 
 ---
 
