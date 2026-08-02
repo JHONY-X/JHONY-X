@@ -1,134 +1,120 @@
 <div align="center">
 
-# 👋 Hello, I'm **Ermias Dereje**
+# 👋 Hi, I'm Ermias Dereje
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Ethical+Hacker;Flutter+Developer;Linux+Power+User;Founder+of+JOHNY-X;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&duration=3500&color=00FF88&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Ethical+Hacker;Flutter+Developer;Linux+Power+User;Founder+of+JOHNY-X;Building+Secure+Digital+Solutions" />
 
-### 🚀 Building Secure Software • Solving Real Problems • Open Source
+### 🚀 Building Secure Software • Creating Real Impact • Open Source Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=JHONY-X&label=Visitors&color=00ff88&style=for-the-badge"/>
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=JHONY-X&style=for-the-badge&color=00ff88"/>
 
 <img src="https://img.shields.io/github/followers/JHONY-X?style=for-the-badge&logo=github"/>
 
 <img src="https://img.shields.io/github/stars/JHONY-X?style=for-the-badge"/>
 
-<p align="center">
-  <img src="./assets/Screenshot%20From%202026-07-24%2023-57-23.png" width="900" alt="GTST v2 Certificate">
 </p>
+
+<img src="./assets/Screenshot%20From%202026-07-24%2023-57-23.png" width="900"/>
 
 </div>
 
-# 🏆 Certifications
+---
 
-<p align="center">
-
-<img src="YOUR_CERTIFICATE_IMAGE_LINK_HERE" width="900"/>
-
-</p>
-
-### ✅ GTST v2 Certified Security Tester
-
-Successfully completed **Geez Security's Cyber Security Training**, including practical penetration testing, Linux, OSINT, malware analysis, web security, and final examination.
-
-
-# 🧑‍💻 About Me
+# 💫 About Me
 
 ```yaml
 Name: Ermias Dereje
-
 Username: JHONY-X
+Location: Ethiopia 🇪🇹
 
 Education:
   - Addis Ababa University Institute of Technology
 
-Role:
+Roles:
   - Full Stack Developer
-  - Ethical Hacker
   - Flutter Developer
+  - Ethical Hacker
 
-Currently Learning:
+Current Focus:
   - Web Security
   - Backend Engineering
-  - Cloud Computing
   - AI Automation
+  - Cloud Computing
 
 Mission:
-  Build secure software that impacts millions.
+  Build secure software that improves millions of lives.
 ```
 
 ---
 
+# 🛠 Tech Stack
 
+### Languages
 
-# ⚙️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,dart,html,css" />
+</p>
 
-## Languages
+### Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter" />
+</p>
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" />
+</p>
+
+### Cybersecurity
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,dart,html,css"/>
+🛡️ Kali Linux • Parrot OS • Burp Suite • Metasploit • Nmap • Wireshark
 
 </p>
 
 ---
 
-## Frameworks
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JHONY-X&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JHONY-X&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+---
+
+
+
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JHONY-X&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JHONY-X&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
-## Database
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-
-</p>
-
----
-
-## DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash"/>
-
-</p>
-
----
-
-## Cybersecurity
-
-- Kali Linux
-- Parrot Security
-- Burp Suite
-- Nmap
-- Metasploit
-- Wireshark
-
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JHONY-X&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JHONY-X&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHONY-X&layout=compact&theme=tokyonight"/>
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHONY-X&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -136,7 +122,11 @@ Mission:
 
 # 📈 Contribution Graph
 
+<p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JHONY-X&theme=tokyo-night"/>
+
+</p>
 
 ---
 
@@ -150,53 +140,81 @@ Mission:
 
 ---
 
-# 🚀 Current Projects
+# 🏆 Certifications
 
-- 🔐 Cybersecurity Toolkit
-- 🌐 Full Stack Web Applications
-- 📱 Flutter Mobile Apps
-- 🤖 AI Automation
-- 📊 Smart Traffic Management System
-- 💼 JOHNY-X Digital Agency
+<p align="center">
+
+<img src="./assets/gtst-v2-certificate.png" width="900"/>
+
+</p>
+
+### GTST v2 Certified Security Tester
+
+Completed Geez Security's professional cybersecurity training covering:
+
+- Penetration Testing
+- Linux Administration
+- Web Security
+- Malware Analysis
+- Digital Forensics
+- OSINT
+- Network Security
 
 ---
 
-# 🎯 2026 Roadmap
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🔐 Cybersecurity Toolkit | Security automation tools |
+| 🌐 Full Stack Applications | Modern web applications |
+| 📱 Flutter Apps | Cross-platform mobile development |
+| 🤖 AI Automation | Intelligent workflow automation |
+| 🚦 Smart Traffic Management | AI-powered transportation system |
+| 💼 JOHNY-X Agency | Digital solutions & branding |
+
+---
+
+# 🎯 2026 Goals
 
 - ✅ Advanced JavaScript
 - ✅ Python Automation
-- 🔄 React + Node.js
-- 🔄 Flutter
-- 🔄 Ethical Hacking
+- 🔄 React Ecosystem
+- 🔄 Node.js Backend
+- 🔄 Flutter Development
 - 🔄 DevOps
-- 🔄 Cloud Computing
+- 🔄 Cloud Engineering
+- 🔄 Ethical Hacking
 - 🔄 AI Engineering
 
 ---
 
-# 💻 Developer Mode
+# 💻 Developer Class
 
 ```javascript
 class Developer {
+  constructor() {
+    this.name = "Ermias Dereje";
+    this.username = "JHONY-X";
 
-    constructor(){
+    this.skills = [
+      "Flutter",
+      "React",
+      "Node.js",
+      "Python",
+      "Cybersecurity",
+      "Linux"
+    ];
 
-        this.name = "Ermias Dereje";
+    this.currentFocus = [
+      "Full Stack Development",
+      "Cloud",
+      "AI Automation",
+      "Ethical Hacking"
+    ];
 
-        this.username = "JHONY-X";
-
-        this.stack = [
-            "Flutter",
-            "React",
-            "Node.js",
-            "Python",
-            "Cybersecurity"
-        ];
-
-        this.mission = "Build. Secure. Scale.";
-
-    }
-
+    this.mission = "Build. Secure. Scale.";
+  }
 }
 
 export default new Developer();
@@ -204,7 +222,7 @@ export default new Developer();
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -226,9 +244,9 @@ export default new Developer();
 
 <div align="center">
 
-# ⭐ Thanks for visiting!
+## ⭐ Thanks for Visiting!
 
-### *"Code. Secure. Innovate."*
+### *Build • Secure • Innovate*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer"/>
 
