@@ -18,7 +18,18 @@
 
 </div>
 
----
+# 🏆 Certifications
+
+<p align="center">
+
+<img src="YOUR_CERTIFICATE_IMAGE_LINK_HERE" width="900"/>
+
+</p>
+
+### ✅ GTST v2 Certified Security Tester
+
+Successfully completed **Geez Security's Cyber Security Training**, including practical penetration testing, Linux, OSINT, malware analysis, web security, and final examination.
+
 
 # 🧑‍💻 About Me
 
@@ -47,19 +58,7 @@ Mission:
 
 ---
 
-# 🏆 Certifications
 
-<p align="center">
-
-<img src="YOUR_CERTIFICATE_IMAGE_LINK_HERE" width="900"/>
-
-</p>
-
-### ✅ GTST v2 Certified Security Tester
-
-Successfully completed **Geez Security's Cyber Security Training**, including practical penetration testing, Linux, OSINT, malware analysis, web security, and final examination.
-
----
 
 # ⚙️ Tech Stack
 
