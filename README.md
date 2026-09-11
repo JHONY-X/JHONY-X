@@ -2,21 +2,21 @@
 
 # 👋 Hi, I'm Ermias Dereje
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&duration=3500&color=00FF88&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Ethical+Hacker;Flutter+Developer;Linux+Power+User;Founder+of+JOHNY-X;Building+Secure+Digital+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&duration=3500&color=00FF88&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Ethical+Hacker;Flutter+Developer;AI+%26+Cloud+Enthusiast" alt="Typing SVG"/>
 
 ### 🚀 Building Secure Software • Creating Real Impact • Open Source Enthusiast
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=JHONY-X&style=for-the-badge&color=00ff88"/>
+<img src="https://komarev.com/ghpvc/?username=JHONY-X&style=for-the-badge&color=00ff88" alt="Profile Views"/>
 
-<img src="https://img.shields.io/github/followers/JHONY-X?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/JHONY-X?style=for-the-badge&logo=github" alt="GitHub Followers"/>
 
-<img src="https://img.shields.io/github/stars/JHONY-X?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/JHONY-X?style=for-the-badge" alt="GitHub Stars"/>
 
 </p>
 
-<img src="./assets/Screenshot%20From%202026-07-24%2023-57-23.png" width="900"/>
+<img src="./assets/Screenshot%20From%202026-07-24%2023-57-23.png" width="900" alt="Profile Banner"/>
 
 </div>
 
@@ -54,25 +54,25 @@ Mission:
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,dart,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,dart,html,css" alt="Programming Languages"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter" alt="Frameworks and Libraries"/>
 </p>
 
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Database Technologies"/>
 </p>
 
 ### DevOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" alt="DevOps and Developer Tools"/>
 </p>
 
 ### Cybersecurity
@@ -85,36 +85,31 @@ Mission:
 
 ---
 
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JHONY-X&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JHONY-X&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
 </p>
-
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JHONY-X&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JHONY-X&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Achievements" width="100%"/>
 </p>
+
 ---
-
-
-
 
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JHONY-X&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JHONY-X&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b26&text_color=8892b0&title_color=00ff88&icon_color=00ff88" alt="GitHub Statistics"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JHONY-X&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JHONY-X&theme=tokyonight&hide_border=false&background=1a1b26&stroke=8892b0&ring=00ff88&fire=00ff88" alt="Contribution Streak"/>
 
 </p>
 
 <p align="center">
 
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHONY-X&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHONY-X&layout=compact&theme=tokyonight&hide_border=false&bg_color=1a1b26&text_color=8892b0&title_color=00ff88" alt="Top Languages"/>
 
 </p>
 
@@ -124,7 +119,7 @@ Mission:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JHONY-X&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JHONY-X&theme=tokyo-night&hide_border=false&point=00ff88&line=00ff88&bg_color=1a1b26" alt="Contribution Activity Graph" width="100%"/>
 
 </p>
 
@@ -134,7 +129,7 @@ Mission:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/JHONY-X/JHONY-X/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/JHONY-X/JHONY-X/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
 
 </p>
 
@@ -144,7 +139,7 @@ Mission:
 
 <p align="center">
 
-<img src="./assets/gtst-v2-certificate.png" width="900"/>
+<img src="./assets/gtst-v2-certificate.png" width="900" alt="GTST v2 Certificate"/>
 
 </p>
 
@@ -152,26 +147,26 @@ Mission:
 
 Completed Geez Security's professional cybersecurity training covering:
 
-- Penetration Testing
-- Linux Administration
-- Web Security
-- Malware Analysis
-- Digital Forensics
-- OSINT
-- Network Security
+- ✅ Penetration Testing
+- ✅ Linux Administration
+- ✅ Web Security
+- ✅ Malware Analysis
+- ✅ Digital Forensics
+- ✅ OSINT
+- ✅ Network Security
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🔐 Cybersecurity Toolkit | Security automation tools |
-| 🌐 Full Stack Applications | Modern web applications |
-| 📱 Flutter Apps | Cross-platform mobile development |
-| 🤖 AI Automation | Intelligent workflow automation |
-| 🚦 Smart Traffic Management | AI-powered transportation system |
-| 💼 JOHNY-X Agency | Digital solutions & branding |
+| Project | Description | Status |
+|----------|-------------|--------|
+| 🔐 Cybersecurity Toolkit | Security automation tools | 🔄 Active |
+| 🌐 Full Stack Applications | Modern web applications | ✅ Complete |
+| 📱 Flutter Apps | Cross-platform mobile development | 🔄 Active |
+| 🤖 AI Automation | Intelligent workflow automation | 🔄 In Progress |
+| 🚦 Smart Traffic Management | AI-powered transportation system | 📊 Research |
+| 💼 JOHNY-X Agency | Digital solutions & branding | ✅ Live |
 
 ---
 
@@ -179,13 +174,13 @@ Completed Geez Security's professional cybersecurity training covering:
 
 - ✅ Advanced JavaScript
 - ✅ Python Automation
-- 🔄 React Ecosystem
-- 🔄 Node.js Backend
-- 🔄 Flutter Development
-- 🔄 DevOps
-- 🔄 Cloud Engineering
-- 🔄 Ethical Hacking
-- 🔄 AI Engineering
+- 🔄 React Ecosystem Master
+- 🔄 Node.js Backend Expert
+- 🔄 Flutter Advanced Development
+- 🔄 DevOps & CI/CD
+- 🔄 Cloud Engineering (AWS/GCP)
+- 🔄 Advanced Ethical Hacking
+- 🔄 AI/ML Engineering
 
 ---
 
@@ -203,17 +198,24 @@ class Developer {
       "Node.js",
       "Python",
       "Cybersecurity",
-      "Linux"
+      "Linux",
+      "Docker",
+      "AWS"
     ];
 
     this.currentFocus = [
       "Full Stack Development",
-      "Cloud",
+      "Cloud Architecture",
       "AI Automation",
-      "Ethical Hacking"
+      "Ethical Hacking",
+      "DevOps"
     ];
 
     this.mission = "Build. Secure. Scale.";
+  }
+
+  getContributions() {
+    return "Open Source • Security • Innovation";
   }
 }
 
@@ -226,16 +228,20 @@ export default new Developer();
 
 <p align="center">
 
-<a href="https://github.com/JHONY-X">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/JHONY-X" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ermias-dereje-258266356/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/ermias-dereje-258266356/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 
 <a href="mailto:ermiasdereje24@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://twitter.com/JHONY_X_" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 
 </p>
@@ -248,6 +254,6 @@ export default new Developer();
 
 ### *Build • Secure • Innovate*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer&animation=twinkling" alt="Footer Wave"/>
 
 </div>
