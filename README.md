@@ -18,6 +18,7 @@
 
 <img src="./assets/Screenshot%20From%202026-07-24%2023-57-23.png" width="900" alt="Profile Banner"/>
 
+
 </div>
 
 ---
@@ -115,35 +116,13 @@ Mission:
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JHONY-X&theme=tokyo-night&hide_border=false&point=00ff88&line=00ff88&bg_color=1a1b26" alt="Contribution Activity Graph" width="100%"/>
-
-</p>
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
 
-<img src="https://raw.githubusercontent.com/JHONY-X/JHONY-X/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
 
-</p>
 
----
-
-# 🏆 Certifications
-
-<p align="center">
-
-<img src="./assets/gtst-v2-certificate.png" width="900" alt="GTST v2 Certificate"/>
-
-</p>
-
-### GTST v2 Certified Security Tester
 
 Completed Geez Security's professional cybersecurity training covering:
 
