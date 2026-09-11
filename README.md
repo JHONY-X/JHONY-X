@@ -102,15 +102,14 @@ Mission:
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JHONY-X&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b26&text_color=8892b0&title_color=00ff88&icon_color=00ff88" alt="GitHub Statistics"/>
 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JHONY-X&theme=tokyonight&hide_border=false&background=1a1b26&stroke=8892b0&ring=00ff88&fire=00ff88" alt="Contribution Streak"/>
 
 </p>
 
-<p align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHONY-X&layout=compact&theme=tokyonight&hide_border=false&bg_color=1a1b26&text_color=8892b0&title_color=00ff88" alt="Top Languages"/>
+
+
 
 </p>
 
