@@ -84,19 +84,7 @@ Mission:
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JHONY-X&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JHONY-X&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Achievements" width="100%"/>
-</p>
-
----
 
 # 📊 GitHub Analytics
 
