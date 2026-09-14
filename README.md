@@ -42,7 +42,7 @@ Current Focus:
   - Web Security
   - Backend Engineering
   - AI Automation
-  - Cloud Computing
+
 
 Mission:
   Build secure software that improves millions of lives.
