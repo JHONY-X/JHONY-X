@@ -40,8 +40,8 @@ Roles:
 
 Current Focus:
   - Web Security
-  - Backend Engineering
-  - AI Automation
+  - Backend Engineer
+
 
 
 Mission:
