@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ermias Dereje
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&duration=3500&color=00FF88&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Ethical+Hacker;Flutter+Developer;AI+%26+Cloud+Enthusiast" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&duration=3500&color=00FF88&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Ethical+Hacker;Flutter+Developer;Cybersecurity+Engineer;Security+Researcher" alt="Typing Banner"/>
 
 ### 🚀 Building Secure Software • Creating Real Impact • Open Source Enthusiast
 
@@ -85,31 +85,19 @@ Mission:
 </p>
 
 
-
 # 📊 GitHub Analytics
 
 <p align="center">
-
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JHONY-X&theme=tokyonight&hide_border=false&background=1a1b26&stroke=8892b0&ring=00ff88&fire=00ff88" alt="Contribution Streak"/>
-
+  <img height="180" src="https://streak-stats.demolab.com/?user=JHONY-X&theme=tokyonight&hide_border=false&background=1a1b26&stroke=8892b0&ring=00ff88&fire=00ff88&currStreakNum=00ff88&currStreakLabel=00ff88&sideNums=00ff88&sideLabels=8892b0&dates=8892b0" alt="Contribution Streak"/>
 </p>
 
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JHONY-X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 ---
 
-
 ---
-
-
-
-
-
 
 Completed Geez Security's professional cybersecurity training covering:
 
