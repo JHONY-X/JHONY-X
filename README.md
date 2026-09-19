@@ -31,7 +31,7 @@ Username: JHONY-X
 Location: Ethiopia 🇪🇹
 
 Education:
-  - Addis Ababa University Institute of Technology
+  - Addis Ababa University Institute of Technology 5 kilo campus
 
 Roles:
   - Full Stack Developer
