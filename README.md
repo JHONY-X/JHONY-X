@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ermias Dereje
+# 👋 Hola, I'm Ermias Dereje
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&duration=3500&color=00FF88&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Ethical+Hacker;Flutter+Developer;Cybersecurity+Engineer;Security+Researcher" alt="Typing Banner"/>
 
