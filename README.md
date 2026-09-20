@@ -96,16 +96,6 @@ Mission:
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JHONY-X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="JHONY-X GitHub stats"
-  />
-</p>
----
-
----
-
 Completed Geez Security's professional cybersecurity training covering:
 
 - ✅ Penetration Testing
