@@ -88,13 +88,20 @@ Mission:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=JHONY-X&theme=tokyonight&hide_border=false&background=1a1b26&stroke=8892b0&ring=00ff88&fire=00ff88&currStreakNum=00ff88&currStreakLabel=00ff88&sideNums=00ff88&sideLabels=8892b0&dates=8892b0" alt="Contribution Streak"/>
+  <a href="https://github.com/JHONY-X" target="_blank">
+    <img
+      src="https://streak-stats.demolab.com/?user=JHONY-X&theme=tokyonight&hide_border=false&background=1a1b26&stroke=8892b0&ring=00ff88&fire=00ff88&currStreakNum=00ff88&currStreakLabel=00ff88"
+      alt="JHONY-X GitHub streak"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JHONY-X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JHONY-X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="JHONY-X GitHub stats"
+  />
 </p>
-
 ---
 
 ---
