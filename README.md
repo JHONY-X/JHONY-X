@@ -85,17 +85,7 @@ Mission:
 </p>
 
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/JHONY-X" target="_blank">
-    <img
-      src="https://streak-stats.demolab.com/?user=JHONY-X&theme=tokyonight&hide_border=false&background=1a1b26&stroke=8892b0&ring=00ff88&fire=00ff88&currStreakNum=00ff88&currStreakLabel=00ff88"
-      alt="JHONY-X GitHub streak"
-    />
-  </a>
-</p>
-
+### Certifications and Some Experience
 Completed Geez Security's professional cybersecurity training covering:
 
 - ✅ Penetration Testing
