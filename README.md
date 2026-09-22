@@ -28,7 +28,7 @@
 ```yaml
 Name: Ermias Dereje
 Username: JHONY-X
-Location: Ethiopia 🇪🇹
+Location: Ethiopia, Addis Ababa 🇪🇹
 
 Education:
   - Addis Ababa University Institute of Technology 5 kilo campus
